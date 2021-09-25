@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tomtsui2642@gmail.com
+	name = Tom Tsui
